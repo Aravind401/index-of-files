@@ -1,3 +1,3 @@
 # index-of-files
-in visual studio C# Code based on file details extractor means (collecting the files name and listed into excel sheet through c# code)
-we have list our video image images documents
+File details extractor(collecting the files name and listed in the excel sheet through the user interface)
+we can list our video image images documents 
